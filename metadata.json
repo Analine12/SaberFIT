@@ -1,0 +1,6 @@
+{
+  "name": "SF SABER FITNESS GYM",
+  "description": "Plateforme officielle de SF SABER FITNESS GYM par Coach Saber avec interface 3D interactive, vidéos d'entraînement, programmes personnalisés et suivi nutritionnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
